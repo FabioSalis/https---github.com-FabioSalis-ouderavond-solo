@@ -29,8 +29,11 @@ a.navbar {
   font-family: 'Anton', sans-serif;
 }
 h1.title {
+  height: 40px;
+  width: 500px;
+  background-color: rgb(12, 73, 21);
   font-family: 'Noto Sans', sans-serif;
-  color: darkblue;
+  color: white;
   
 }
 img.tcrlogo {
@@ -45,5 +48,24 @@ body.index{
   background-size: cover;
   background-attachment: scroll;
 }
-
-
+h2.hometitle {
+  height: 50px;
+  width: 500px;
+  background-color: rgb(12, 73, 21);
+  font-family: 'Noto Sans', sans-serif;
+  color: white;
+}
+p.hometext {
+  height: 450px;
+  width: 500px;
+  background-color: rgb(12, 73, 21);
+  font-family: 'Noto Sans', sans-serif;
+  color: white;
+}
+.square1 {
+  height: 400px;
+  width: 500px;
+  background-color: rgb(12, 73, 21);
+  font-family: 'Noto Sans', sans-serif;
+  color: white;
+}
