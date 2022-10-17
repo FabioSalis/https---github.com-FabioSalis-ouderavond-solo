@@ -1,0 +1,49 @@
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(12, 73, 21);
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+  }
+  
+  li a:hover {
+    background-color: rgb(69, 153, 80);
+  }
+a.navbar {
+  font-family: 'Anton', sans-serif;
+}
+h1.title {
+  font-family: 'Noto Sans', sans-serif;
+  color: darkblue;
+  
+}
+img.tcrlogo {
+  float: left;
+  width: 125px;
+  height: 63px;
+
+}
+body.index{
+  background-image: url(/imgs/sportlaan.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+
