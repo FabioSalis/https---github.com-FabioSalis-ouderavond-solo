@@ -69,3 +69,16 @@ p.hometext {
   font-family: 'Noto Sans', sans-serif;
   color: white;
 }
+body.otherbody {
+  background-color: rgb(69, 153, 80);
+}
+.title2 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.titleh2 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.p-software {
+  font-family: 'Noto Sans', sans-serif;
+  size: 20px;
+}
