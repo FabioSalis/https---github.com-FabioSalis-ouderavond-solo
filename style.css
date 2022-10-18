@@ -81,7 +81,7 @@ body.otherbody {
 .p-software {
   font-family: 'Noto Sans', sans-serif;
   size: 20px;
-<<<<<<< HEAD
+
 }
 .footer {
   height: 40px;
@@ -93,6 +93,10 @@ body.otherbody {
 .footertext {
   text-align: center;
 }
-=======
+.alink {
+  font-family: 'Noto Sans', sans-serif;
+  color: black;
 }
->>>>>>> 85b2724d8964f959e5cb85ce436d33a5e6716c18
+
+
+
